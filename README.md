@@ -1,0 +1,2 @@
+# python-note
+用来记录学习python的笔记主要参考python从编程从入门到时间
